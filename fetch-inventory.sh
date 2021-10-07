@@ -17,8 +17,8 @@ do
       "pagesize": 200,
       "pagestart": 0,
       "filter": {
-          "year": [2021], 
-          "series": ["tacoma", "4runner", "tundra"], 
+          "year": ["2021", "2022"], 
+          "series": ["tacoma"], 
           "dealers": ["'$i'"],
           "andfields": ["accessory", "packages", "dealer"]
         }
